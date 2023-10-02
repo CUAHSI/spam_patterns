@@ -11,17 +11,6 @@ patterns = [
     "antivirus",
     "cleaner",
     "cookies",
-    "laptop",
-    # r'' is a 'raw' string (backslash symbol is treated as a literal
-    # backslash).
-    # '\b' stands for 'word boundary'.
-    "android",
-    r"\bapple\b",
-    "icloud",
-    "iphone",
-    "macbook",
-    "macos",
-    "internet explorer",
     "escort",
     "porn",
 ]
